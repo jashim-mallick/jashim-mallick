@@ -4,11 +4,11 @@
 
 <br clear="both">
 
-<p align="center">I am a Full Stack Devloper from India ⚛️,currently pursuing full stack development at an institute,focusing on improve myself.</p>
+<h3 align="center">I am a Full Stack Devloper from India ⚛️,currently pursuing full stack development at an institute,focusing on improve myself.</h3>
 
 ###
 
-<p align="left">🔭 I’m currently working on [Wallpaper App](https://github.com/jashim-mallick/neo-wallpaper-app)<br><br>- 📫 How to reach me **mdjashimmallick@gmail.com**<br><br>- ⚡ Fun fact **The term “bug” in software became popular after a real insect caused a computer failure in 1947.**</p>
+<p align="left">🔭 I’m currently working on [Wallpaper App](https://github.com/jashim-mallick/neo-wallpaper-app)<br><br>📫 How to reach me: mdjashimmallick@gmail.com<br><br> ⚡ Fun fact The term “bug” in software became popular after a real insect caused a computer failure in 1947.</p>
 
 ###
 
